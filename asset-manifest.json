@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/prophetpub/static/css/main.bab55db5.chunk.css",
-    "main.js": "/prophetpub/static/js/main.d28aba1c.chunk.js",
-    "main.js.map": "/prophetpub/static/js/main.d28aba1c.chunk.js.map",
+    "main.js": "/prophetpub/static/js/main.3e3722cc.chunk.js",
+    "main.js.map": "/prophetpub/static/js/main.3e3722cc.chunk.js.map",
     "runtime-main.js": "/prophetpub/static/js/runtime-main.8a1c7993.js",
     "runtime-main.js.map": "/prophetpub/static/js/runtime-main.8a1c7993.js.map",
     "static/js/2.656dab93.chunk.js": "/prophetpub/static/js/2.656dab93.chunk.js",
     "static/js/2.656dab93.chunk.js.map": "/prophetpub/static/js/2.656dab93.chunk.js.map",
     "index.html": "/prophetpub/index.html",
-    "precache-manifest.3c882ab70ba3a008ea731374bfac2b24.js": "/prophetpub/precache-manifest.3c882ab70ba3a008ea731374bfac2b24.js",
+    "precache-manifest.bc32026eb26dd8d1b4552abe018e140e.js": "/prophetpub/precache-manifest.bc32026eb26dd8d1b4552abe018e140e.js",
     "service-worker.js": "/prophetpub/service-worker.js",
     "static/css/main.bab55db5.chunk.css.map": "/prophetpub/static/css/main.bab55db5.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.8a1c7993.js",
     "static/js/2.656dab93.chunk.js",
     "static/css/main.bab55db5.chunk.css",
-    "static/js/main.d28aba1c.chunk.js"
+    "static/js/main.3e3722cc.chunk.js"
   ]
 }
